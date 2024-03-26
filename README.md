@@ -129,3 +129,8 @@ Fecha: **marzo de 2024**.
 # 1-1-Startup-profile
 
 # 1-1-1-Descripción-de-la-startup
+
+
+# 1-1-2-perfiles-de-integrantes-del-equipo
+
+Ruben Velasque Chambi: futuro ingeniero de software  askdnasodnadasasdanoansdasdnaodnaodasindaodnaosndoasndoansoisadinasdonaodnasoidaoisndaosndoansoidasdansonasoinaosnocn ascnsaocasncoasncasnocnasocsacsancasncoiasncasncoasncoiasocnasocnasoncasncoiascasncoascoasncasoncoasncoaicoasn
