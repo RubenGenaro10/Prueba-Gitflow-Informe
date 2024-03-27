@@ -126,3 +126,8 @@ Fecha: **marzo de 2024**.
 - 5.4. [Video About-the-Product](#5-4-video-about-the-product)
 
 
+
+
+Capitulo 2:
+
+avance preliminar de el capitulo 2
