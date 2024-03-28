@@ -9,16 +9,16 @@
 ##### Nombre del profesor: Angel Augusto Velasquez Nuñez
 ##### Sección: SV51
 
-#### " Inforeme de Trabajo Final "
+#### " Informe de Trabajo Final "
 ##### Nombre de la Startup: Cyber Savants
 ##### Nombre del Producto: Easy Food
 
 #### Integrantes
 * Ruben Velasquez Chambi - U202117342
 * Fabrizio Alexander Cutiri Agüero - codigo
-* Omar Christian Berrocal Ramirez -  codigo
-* Renzo José Araujo Ingunza - codigo
-* Sebastian Cordova Valdivia - codigo
+* Omar Christian Berrocal Ramirez -  U20201B529
+* Renzo José Araujo Ingunza - U202113612
+* Sebastian Cordova Valdivia - U202111041
 
 Fecha: **marzo de 2024**.
 </div>
@@ -131,3 +131,10 @@ Fecha: **marzo de 2024**.
 Capitulo 2:
 
 avance preliminar de el capitulo 2
+
+
+
+| Integrante                                                                                     | Descripción  | Conocimiento  |
+|-------------|--------------|---------------|
+|Ruben Velasquez Chambi - U202117342 ![Ruben Velasquez](./assets/img/chapter-1/perfil-Ruben.jpeg)| Soy un estudiante de la universidad peruana de ciencias aplicada que se encuentra en el 6to ciclo de la carrera de ingeniería de software, tengo 23 años. soy bueno trabajando en equipo y buscar modos de que el equipo sea mas eficiente| Tengo conocimiento intermedio de C++ , NodeJ , TypeScript.conocimientos basicos de Angular, HTML,CSS,PHP.|
+| Integrante 2| Descripción 2| Conocimiento 2|
